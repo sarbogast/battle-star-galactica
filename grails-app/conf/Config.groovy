@@ -88,3 +88,7 @@ log4j = {
 
     warn   'org.mortbay.log'
 }
+
+cloudbees.api.url='https://api.cloudbees.com/api'
+cloudbees.api.key='B123E8DBD114BB54'
+cloudbees.api.secret='VEV15XF/YMY29NEPIWUMLX7SAZDBDAKS+QEQS7NEESU='
